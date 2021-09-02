@@ -1,11 +1,4 @@
-h1.active {
-    color: deeppink;
-}
-
-.header {
-    color: cornflowerblue;
-}
-
-.active{
-    color: darkblue;
+button{
+    padding: 50px 0px;
+    background-color: crimson;
 }
