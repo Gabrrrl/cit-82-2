@@ -2,10 +2,13 @@ html{
     font-size: 62.5%;
 }
 
-.text-section{
-    font-size: 1.6rem;
-}
-
-.text-section div {
+button{
+    margin: 20rem;
+    padding: 2rem 4rem;
+    background: none;
+    border: 0.3rem solid rgb(111, 82, 207);
+    color: white;
     font-size: 2.4rem;
+    border-radius: 1rem;
+    background: rgb(111, 82, 207);
 }
